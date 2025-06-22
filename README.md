@@ -26,13 +26,13 @@ Fleet Management: Assign ambulances to patients, track maintenance, and manage d
 💻 Tech Stack
 Frontend: React.js + TaiwindCSS
 
-Backend: Node.js 
+Backend: Node.js , loacl storage;
 
 Speech/Translation: Google Gemini APIs , Vosk , Google TTS
 
 Map & Tracking: Google Maps API 
 
-Database: MongoDB
+
 
 🚀 How It Works
 Patient initiates an emergency call or WhatsApp alert.
